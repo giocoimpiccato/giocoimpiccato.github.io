@@ -1,0 +1,28 @@
+
+head {
+	background-image: url(sfondo4.jpg);
+}
+
+body {
+	
+	background-image: url(sfondo3.jpg) ;
+	font-family: sans-serif;
+}
+
+h1 {
+	text-align: center;
+    font-family: serif;
+    background-image: url(sfondo4.jpg);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+
+
+.alert-success {
+	text-align : center;
+	font-size: 16px;
+	font-family: sans-serif;
+	
+}
